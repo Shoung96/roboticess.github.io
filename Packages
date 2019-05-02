@@ -1,0 +1,29 @@
+Package: com.rkycyku.alzeppelin
+Version: 1.0~beta2
+Section: Addons (Zeppelin)
+Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depends: firmware (>9.0), mobilesubstrate, Zeppelin
+Architecture: iphoneos-arm
+Filename: ./debs/com.rkycyku.alzeppelin.deb
+Size: 20
+MD5sum: 406217F61DD8A6286637AE2AD9DD7DBC
+SHA1: D2FB36B4238E13FEC4F42E97777884FA5680C572
+SHA256: A2CA83208380BF7FDB252A1C05F425B68C14C425DB5CA01401EF54B758DAFA9D
+Description: All Albanian Operators for Zeppelin : ALBtelecom, Telekom Albania, Vodafone Albania
+Name: Albanian Operators for Zeppelin
+Author: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
