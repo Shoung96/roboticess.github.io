@@ -1,0 +1,40 @@
+<package>
+	<id>com.rkycyku.alzeppelin</id>
+	<name>Albanian Operators for Zeppelin</name>
+	<version>1.0~beta2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>Zeppelin</package>
+	</dependencies>
+	<descriptionlist>
+		<description>All Albanian Operators for Zeppelin : </description>
+		<description>ALBtelecom</description>
+		<description>Telekom Albania</description>
+		<description>Vodafone Albania</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
