@@ -1,0 +1,45 @@
+<package>
+	<id>com.rkycyku.kszeppelin</id>
+	<name>Kosovo Operators for Zeppelin</name>
+	<version>1.0~beta4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>Zeppelin</package>
+	</dependencies>
+	<descriptionlist>
+		<description>All Kosovo Operators for Zeppelin : </description>
+		<description>IPKO</description>
+		<description>Vala</description>
+		<description>Zmobile</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>twitter</name>
+			<url>https://www.twitter.com/rilindkycyku16</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
