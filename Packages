@@ -4,7 +4,7 @@ Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.rkycyku.alzeppelin.deb
+Filename: https://rkycyku.github.io/roboticess.github.io/debs/com.rkycyku.alzeppelin.deb
 Size: 20
 MD5sum: 406217F61DD8A6286637AE2AD9DD7DBC
 SHA1: D2FB36B4238E13FEC4F42E97777884FA5680C572
@@ -20,7 +20,7 @@ Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.rkycyku.endgamezeppelin.deb
+Filename: https://rkycyku.github.io/roboticess.github.io/debs/com.rkycyku.endgamezeppelin.deb
 Size: 34
 MD5sum: 797BE0743CCF197E99FF062AD37BF065
 SHA1: C387FB3423A1DD9A8F31F8EC3B2876CCFD52B426
@@ -36,7 +36,7 @@ Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.rkycyku.kszeppelin.deb
+Filename: https://rkycyku.github.io/roboticess.github.io/debs/com.rkycyku.kszeppelin.deb
 Size: 20
 MD5sum: B21904BE7E63B111EE0E8B6687B4450E
 SHA1: 02CDE345F1312A88364AEE7EF60242D355BBDEC7
