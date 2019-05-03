@@ -31,19 +31,14 @@
 	</changelog>
 	<links>
 		<link>
-			<name>Follow me on Facebook</name>
-			<url>https://facebook.com/rilind.kycyku</url>
-			<iconclass>fa fa-facebook</iconclass>
+			<name>Github<name>
+			<url>https://github.com/roboticess/roboticess.github.io<urk>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
-			<name>Follow me on Instagram</name>
-			<url>https://instagram.com/r.kycyku</url>
-			<iconclass>fa fa-instagram</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/rilindkycyku16</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>
