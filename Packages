@@ -5,7 +5,7 @@ Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.alzeppelin.deb
-Size: 20
+Size: 19.06
 Description: All Albanian Operators for Zeppelin : ALBtelecom, Telekom Albania, Vodafone Albania
 Name: Albanian Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
@@ -18,7 +18,7 @@ Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.endgamezeppelin.deb
-Size: 34
+Size: 37.83
 Description: Avangers Endgame Addon for Zeppelin
 Name: Avangers Endgame Addon for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
@@ -31,7 +31,7 @@ Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.kszeppelin.deb
-Size: 20
+Size: 20.09
 Description: All Kosovo Operators for Zeppelin : IPKO, Vala, Zmobile
 Name: Kosovo Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
