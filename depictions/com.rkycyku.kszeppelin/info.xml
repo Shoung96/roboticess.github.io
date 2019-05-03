@@ -1,6 +1,6 @@
 <package>
 	<id>com.rkycyku.kszeppelin</id>
-	<name>Full Package</name>
+	<name>Kosovo Operators for Zeppelin</name>
 	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
@@ -10,14 +10,14 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is an Addon for Zeppelin.</shortDescription>
+	<shortDescription>This is an Addon for Zeppelin. </shortDescription>
 	<shortDescription>This is created by me. For beautiful people of Kosovo</shortDescription>
 	<descriptionlist>
 		<description>All Kosovo Operators for Zeppelin.</description>
 		<description><![CDATA[
 		IPKO<br/>
 		Vala<br/>
-		Zmobilr
+		Zmobile
 		]]>
 		</description>
 	</descriptionlist>
@@ -40,7 +40,7 @@
 		<link>
 			<name>GitHub</name>
 			<url>https://github.com/roboticess/roboticess.github.io</url>
-			<iconclass>fa fa-gihtub</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
 			<name>/r/jailbreak</name>

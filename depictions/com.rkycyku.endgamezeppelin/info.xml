@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is an Addon for Zeppelin.</shortDescription>
+	<shortDescription>This is an Addon for Zeppelin. </shortDescription>
 	<shortDescription>This is created by me. For real fans of Endgame</shortDescription>
 	<descriptionlist>
-		<description>This is an Addon of Endgame for Zeppelin.</description>
+		<description>This is an Endgame Addon for Zeppelin.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -34,7 +34,7 @@
 		<link>
 			<name>GitHub</name>
 			<url>https://github.com/roboticess/roboticess.github.io</url>
-			<iconclass>fa fa-gihtub</iconclass>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
 			<name>/r/jailbreak</name>
