@@ -1,0 +1,45 @@
+<package>
+	<id>com.rkycyku.endgamezeppelin</id>
+	<name>Avangers Endgame Addon for Zeppelin</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is an Addon for Zeppelin.</shortDescription>
+	<shortDescription>This is created by me. For real fans of Endgame</shortDescription>
+	<descriptionlist>
+		<description>This is an Addon of Endgame for Zeppelin.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Update files</change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub</name>
+			<url>https://github.com/roboticess/roboticess.github.io</url>
+			<iconclass>fa fa-gihtub</iconclass>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

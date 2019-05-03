@@ -1,7 +1,7 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.rkycyku.alzeppelin</id>
+	<name>Albanian Operators for Zeppelin</name>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -10,13 +10,14 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is an Addon for Zeppelin.</shortDescription>
+	<shortDescription>This is created by me. For beautiful people of Albania</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>All Albanian Operators for Zeppelin.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		ALBtelecom<br/>
+		Telekom Albania<br/>
+		Vodafone Albanian
 		]]>
 		</description>
 	</descriptionlist>
@@ -24,18 +25,23 @@
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Update files</change>
+		<change></change>
 	</changelog>
 	<links>
+		<link>
+			<name>GitHub</name>
+			<url>https://github.com/roboticess/roboticess.github.io</url>
+			<iconclass>fa fa-gihtub</iconclass>
+		</link>
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>

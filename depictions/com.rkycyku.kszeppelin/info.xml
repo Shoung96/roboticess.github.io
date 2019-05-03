@@ -1,0 +1,51 @@
+<package>
+	<id>com.rkycyku.kszeppelin</id>
+	<name>Full Package</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is an Addon for Zeppelin.</shortDescription>
+	<shortDescription>This is created by me. For beautiful people of Kosovo</shortDescription>
+	<descriptionlist>
+		<description>All Kosovo Operators for Zeppelin.</description>
+		<description><![CDATA[
+		IPKO<br/>
+		Vala<br/>
+		Zmobilr
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Update files</change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub</name>
+			<url>https://github.com/roboticess/roboticess.github.io</url>
+			<iconclass>fa fa-gihtub</iconclass>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

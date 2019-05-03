@@ -1,14 +1,14 @@
 Package: com.rkycyku.alzeppelin
-Version: 1.0
+Version: 1.0.1
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.alzeppelin.deb
 Size: 19.06
-MD5sum: 8afce0ea138ffc337813368e4fb9dcac
-SHA1: ad7549f0516fa8394f86e12a8f477685cd15fffc
-SHA256: ba9f7bbe655caf9da5d27cdf133e377375d454202c3154e65e94e99e197783ae
+MD5sum: 78a0ee610b2331c871e6fd26fe02baf9
+SHA1: 376c55fe3186970c40f6d62862aca2227d2c33a8
+SHA256: 7c175e0e26c9d7917584e6baa984da37f8e72d689f54adbd0db358502fd37886
 Description: All Albanian Operators for Zeppelin : ALBtelecom, Telekom Albania, Vodafone Albania
 Name: Albanian Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
@@ -18,13 +18,13 @@ Package: com.rkycyku.endgamezeppelin
 Version: 1.0
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.endgamezeppelin.deb
 Size: 37.83
-MD5sum: 8afce0ea138ffc337813368e4fb9dcac
-SHA1: 6758201cf69289771e224b49fbdb05995b3d862c
-SHA256: daf02cd58198f1a5db735689e189149264b76707ef3d13eb17458090a8e950f1
+MD5sum: 498ec31a28532ecd1978f399ee5d6fb1
+SHA1: 9d4aad2c2980f7a453ffd02839451fd5974ed3b2
+SHA256: 04d036157ecdb11e5d3b0c364aedc99686414f2c5e398368bff8192c1fb18086
 Description: Avangers Endgame Addon for Zeppelin
 Name: Avangers Endgame Addon for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
@@ -34,13 +34,13 @@ Package: com.rkycyku.kszeppelin
 Version: 1.0
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.kszeppelin.deb
 Size: 20.09
-MD5sum: 1e886e30f414fb939ece5ff2bd92562c
-SHA1: 876277c6990d551c393a23144c101ee8023e2d34
-SHA256: d97b22607c775fa911e9d680611e50b334f82c99cba4479568222c33ebd40934
+MD5sum: 27227ac1ba7db4ac9ba9ea70eaacf2c0
+SHA1: b4f0e8c15eca1a8ca5c29848f95317bd472fcf70
+SHA256: fdc2215efee376a8b91f92b3218ae697ab40683871fe13363c2fa0696faf7f71
 Description: All Kosovo Operators for Zeppelin : IPKO, Vala, Zmobile
 Name: Kosovo Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
