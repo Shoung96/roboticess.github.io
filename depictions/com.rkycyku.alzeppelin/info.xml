@@ -9,7 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>Zeppelin</package>
 	</dependencies>
 	<descriptionlist>
 		<description>All Albanian Operators for Zeppelin : </description>

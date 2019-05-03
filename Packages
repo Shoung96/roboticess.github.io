@@ -2,7 +2,7 @@ Package: com.rkycyku.alzeppelin
 Version: 1.0~beta2
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, Zeppelin
+Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.alzeppelin.deb
 Size: 20
@@ -12,13 +12,13 @@ SHA256: A2CA83208380BF7FDB252A1C05F425B68C14C425DB5CA01401EF54B758DAFA9D
 Description: All Albanian Operators for Zeppelin : ALBtelecom, Telekom Albania, Vodafone Albania
 Name: Albanian Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depiction: https://rkycyku.github.io/roboticess/depictions/?p=com.rkycyku.alzeppelin
+Depiction: https://rkycyku.github.io/roboticess.github.io/depictions/?p=com.rkycyku.alzeppelin
 
 Package: com.rkycyku.endgamezeppelin
 Version: 1.0~beta1
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, Zeppelin
+Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.endgamezeppelin.deb
 Size: 34
@@ -28,13 +28,13 @@ SHA256: 6556C8C67F31EBE53377F9042B560E274CABB78276AE86457507BBFCF67FD7B86556C8C6
 Description: Avangers Endgame Addon for Zeppelin
 Name: Avangers Endgame Addon for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depiction: https://rkycyku.github.io/roboticess/depictions/?p=com.rkycyku.endgamezeppelin
+Depiction: https://rkycyku.github.io/roboticess.github.io/depictions/?p=com.rkycyku.endgamezeppelin
 
 Package: com.rkycyku.kszeppelin
 Version: 1.0~beta4
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, Zeppelin
+Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.kszeppelin.deb
 Size: 20
@@ -44,4 +44,4 @@ SHA256: 67B592D0094BFC7CEAF37783F44FC3B26E1B695D2DC85EE61828A6EC72097FB8
 Description: All Kosovo Operators for Zeppelin : IPKO, Vala, Zmobile
 Name: Kosovo Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depiction: https://rkycyku.github.io/roboticess/depictions/?p=com.rkycyku.kszeppelin
+Depiction: https://rkycyku.github.io/roboticess.github.io/depictions/?p=com.rkycyku.kszeppelin
