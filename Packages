@@ -1,0 +1,47 @@
+Package: com.rkycyku.alzeppelin
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rkycyku.alzeppelin.deb
+Size: 19.06
+MD5sum: 8afce0ea138ffc337813368e4fb9dcac
+SHA1: ad7549f0516fa8394f86e12a8f477685cd15fffc
+SHA256: ba9f7bbe655caf9da5d27cdf133e377375d454202c3154e65e94e99e197783ae
+Description: All Albanian Operators for Zeppelin : ALBtelecom, Telekom Albania, Vodafone Albania
+Name: Albanian Operators for Zeppelin
+Author: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depiction: https://roboticess.github.io/depictions/?p=com.rkycyku.alzeppelin
+
+Package: com.rkycyku.endgamezeppelin
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rkycyku.endgamezeppelin.deb
+Size: 37.83
+MD5sum: 8afce0ea138ffc337813368e4fb9dcac
+SHA1: 6758201cf69289771e224b49fbdb05995b3d862c
+SHA256: daf02cd58198f1a5db735689e189149264b76707ef3d13eb17458090a8e950f1
+Description: Avangers Endgame Addon for Zeppelin
+Name: Avangers Endgame Addon for Zeppelin
+Author: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depiction: https://roboticess.github.io/depictions/?p=com.rkycyku.endgamezeppelin
+
+Package: com.rkycyku.kszeppelin
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depends: firmware (>9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rkycyku.kszeppelin.deb
+Size: 20.09
+MD5sum: 1e886e30f414fb939ece5ff2bd92562c
+SHA1: 876277c6990d551c393a23144c101ee8023e2d34
+SHA256: d97b22607c775fa911e9d680611e50b334f82c99cba4479568222c33ebd40934
+Description: All Kosovo Operators for Zeppelin : IPKO, Vala, Zmobile
+Name: Kosovo Operators for Zeppelin
+Author: Rilind Kycyku <r.kycyku.12@gmail.com>
+Depiction: https://roboticess.github.io/depictions/?p=com.rkycyku.kszeppelin
