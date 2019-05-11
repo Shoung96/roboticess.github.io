@@ -37,7 +37,7 @@ Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.kszeppelin.deb
-Size: 20578
+Size: 20576
 MD5sum: 27227ac1ba7db4ac9ba9ea70eaacf2c0
 SHA1: b4f0e8c15eca1a8ca5c29848f95317bd472fcf70
 SHA256: fdc2215efee376a8b91f92b3218ae697ab40683871fe13363c2fa0696faf7f71
