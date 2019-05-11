@@ -1,0 +1,50 @@
+<package>
+	<id>com.rkycyku.battleroyale</id>
+	<name>Battle Royale Game for Zeppelin</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is an Addon for Zeppelin. </shortDescription>
+	<shortDescription>This is created by me. For fans of Battle Royale Games.</shortDescription>
+	<descriptionlist>
+		<description>Some Battle Royale Game for Zeppelin.</description>
+		<description><![CDATA[
+		Apex Legends<br/>
+		Black Ops 4<br/>
+		Fortnite
+		PUBG
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial files</change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub</name>
+			<url>https://github.com/roboticess/roboticess.github.io</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
