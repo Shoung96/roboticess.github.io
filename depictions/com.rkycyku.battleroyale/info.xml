@@ -1,7 +1,7 @@
 <package>
 	<id>com.rkycyku.battleroyale</id>
 	<name>Battle Royale Game for Zeppelin</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -9,6 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>com.alexzielenski.zeppelin</package>
 	</dependencies>
 	<shortDescription>This is an Addon for Zeppelin. </shortDescription>
 	<shortDescription>This is created by me. For fans of Battle Royale Games.</shortDescription>
@@ -33,7 +34,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial files</change>
+		<change>Added @3x images for better size</change>
+		<change>Removed @2x images</change>
 	</changelog>
 	<links>
 		<link>

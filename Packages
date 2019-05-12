@@ -1,62 +1,62 @@
 Package: com.rkycyku.alzeppelin
-Version: 1.0.1
+Version: 1.0.2
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate, com.alexzielenski.zeppelin
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.alzeppelin.deb
-Size: 19514
-MD5sum: 78a0ee610b2331c871e6fd26fe02baf9
-SHA1: 376c55fe3186970c40f6d62862aca2227d2c33a8
-SHA256: 7c175e0e26c9d7917584e6baa984da37f8e72d689f54adbd0db358502fd37886
+Size: 19532
+MD5sum: 522462941e088d0d4d7bdc72d196a8d4
+SHA1: 6025e7002f3855925a770fe9492d99ed5fcb97ad
+SHA256: e70661c1e9a66aeaa8df3681469533bb26e6e0e3085c6b4cf8edd91ca3136469
 Description: All Albanian Operators for Zeppelin : ALBtelecom, Telekom Albania, Vodafone Albania
 Name: Albanian Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depiction: https://roboticess.github.io/depictions/?p=com.rkycyku.alzeppelin
 
 Package: com.rkycyku.endgamezeppelin
-Version: 1.0.1
+Version: 1.0.2
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate, com.alexzielenski.zeppelin
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.endgamezeppelin.deb
-Size: 38738
-MD5sum: 498ec31a28532ecd1978f399ee5d6fb1
-SHA1: 9d4aad2c2980f7a453ffd02839451fd5974ed3b2
-SHA256: 04d036157ecdb11e5d3b0c364aedc99686414f2c5e398368bff8192c1fb18086
+Size: 38754
+MD5sum: 7aeb03eb6583359b5120e01f91518b63
+SHA1: e287b429b5a046e7990a9f14374b6a8aafac79f8
+SHA256: e63cbb958ea0937b5769768df5b185682153e0169990a769773e6c9c04ce138d
 Description: Avangers Endgame Addon for Zeppelin
 Name: Avangers Endgame Addon for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depiction: https://roboticess.github.io/depictions/?p=com.rkycyku.endgamezeppelin
 
 Package: com.rkycyku.kszeppelin
-Version: 1.0.1
+Version: 1.0.2
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate, com.alexzielenski.zeppelin
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.kszeppelin.deb
-Size: 20576
-MD5sum: 27227ac1ba7db4ac9ba9ea70eaacf2c0
-SHA1: b4f0e8c15eca1a8ca5c29848f95317bd472fcf70
-SHA256: fdc2215efee376a8b91f92b3218ae697ab40683871fe13363c2fa0696faf7f71
+Size: 20594
+MD5sum: 084a747f22ace55d47077be465cdc644
+SHA1: 12f0ac230e9a9a52506d24be698215dcd75adf51
+SHA256: b627f57ac1f18a7e3fa56693ec58746ae52853526ec7a861967268afc6ba52b3
 Description: All Kosovo Operators for Zeppelin : IPKO, Vala, Zmobile
 Name: Kosovo Operators for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
 Depiction: https://roboticess.github.io/depictions/?p=com.rkycyku.kszeppelin
 
 Package: com.rkycyku.battleroyale
-Version: 1.0.0
+Version: 1.0.1
 Section: Addons (Zeppelin)
 Maintainer: Rilind Kycyku <r.kycyku.12@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate, com.alexzielenski.zeppelin
 Architecture: iphoneos-arm
 Filename: ./debs/com.rkycyku.battleroyale.deb
-Size: 45978
-MD5sum: 3e44c37c72fe8f8d193d420100a962a5
-SHA1: a713bf08b495d0f049686a98dbb17d3167291b87
-SHA256: a2d1f7a6f8ba12f75e85505d428d818dce3895df036d72117acd20a640ac5aa5
+Size: 45994
+MD5sum: 057a9395b7d9c2dc2504b2f19b5ccf41
+SHA1: ba0d336aebb2750962d7e23b52799efaec0e3096
+SHA256: 63e3904bf62b879745e1c2060c9b47d969c538782ad500141cd6c210ac4ca747
 Description: All Kosovo Operators for Zeppelin : IPKO, Vala, Zmobile
 Name: Battle Royale Games for Zeppelin
 Author: Rilind Kycyku <r.kycyku.12@gmail.com>
